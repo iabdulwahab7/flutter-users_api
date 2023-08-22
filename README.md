@@ -3,6 +3,8 @@
    
 ![users Api model created by me](https://github.com/iabdulwahab7/flutter-users_api/assets/76598467/014bcd69-3b1b-4b3c-9d6a-bf4cf861c3d9)
 
+API Link: https://jsonplaceholder.typicode.com/users
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
