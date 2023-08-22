@@ -1,6 +1,6 @@
 # user_modelcreate
-
-A new Flutter project.
+1. Get APIs with own Model and show data into List Integrate.
+![users Api model created by me](https://github.com/iabdulwahab7/flutter-users_api/assets/76598467/014bcd69-3b1b-4b3c-9d6a-bf4cf861c3d9)
 
 ## Getting Started
 
